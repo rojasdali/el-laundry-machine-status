@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:46:24.052013-04:00",
+  "updated_at": "2026-09-27T11:50:00.813085-04:00",
   "washers": {
     "total": 27,
     "available": 16,
@@ -171,8 +171,8 @@
   },
   "dryers": {
     "total": 31,
-    "available": 19,
-    "in_use": 12,
+    "available": 14,
+    "in_use": 17,
     "machines": [
       {
         "machine_id": "21",
@@ -279,7 +279,7 @@
       {
         "machine_id": "44",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-09-27T11:23:38-04:00"
       },
       {
@@ -303,38 +303,38 @@
       {
         "machine_id": "48",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": ""
+        "status": "in_use",
+        "started_at": "2026-09-27T11:49:29-04:00"
       },
       {
         "machine_id": "49",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-09-27T10:38:36-04:00"
+        "status": "in_use",
+        "started_at": "2026-09-27T11:49:52-04:00"
       },
       {
         "machine_id": "50",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-09-27T09:57:27-04:00"
+        "status": "in_use",
+        "started_at": "2026-09-27T11:47:18-04:00"
       },
       {
         "machine_id": "51",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-09-27T09:57:27-04:00"
+        "status": "in_use",
+        "started_at": "2026-09-27T11:47:18-04:00"
       },
       {
         "machine_id": "52",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-09-27T09:58:28-04:00"
+        "status": "in_use",
+        "started_at": "2026-09-27T11:47:18-04:00"
       },
       {
         "machine_id": "53",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-09-27T09:58:28-04:00"
+        "status": "in_use",
+        "started_at": "2026-09-27T11:47:18-04:00"
       },
       {
         "machine_id": "54",
