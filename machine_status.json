@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T11:36:16.859043-04:00",
+  "updated_at": "2026-09-27T11:36:21.717529-04:00",
   "washers": {
     "total": 27,
-    "available": 18,
-    "in_use": 9,
+    "available": 17,
+    "in_use": 10,
     "machines": [
       {
         "machine_id": "1",
         "machine_type": "washer",
-        "status": "available",
+        "status": "in_use",
         "started_at": "2026-09-27T11:36:17-04:00"
       },
       {
