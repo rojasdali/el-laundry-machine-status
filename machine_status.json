@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-01T13:21:04.224579-04:00",
+  "updated_at": "2026-10-01T13:41:57.725572-04:00",
   "washers": {
     "total": 33,
-    "available": 25,
-    "in_use": 8,
+    "available": 24,
+    "in_use": 9,
     "machines": [
       {
         "machine_id": "1",
@@ -170,8 +170,8 @@
       {
         "machine_id": "65",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-10-01T11:32:45-04:00"
+        "status": "in_use",
+        "started_at": "2026-10-01T13:34:08-04:00"
       },
       {
         "machine_id": "66",
@@ -207,8 +207,8 @@
   },
   "dryers": {
     "total": 37,
-    "available": 32,
-    "in_use": 5,
+    "available": 33,
+    "in_use": 4,
     "machines": [
       {
         "machine_id": "21",
@@ -231,8 +231,8 @@
       {
         "machine_id": "24",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-10-01T12:38:52-04:00"
+        "status": "in_use",
+        "started_at": "2026-10-01T13:33:53-04:00"
       },
       {
         "machine_id": "25",
@@ -279,7 +279,7 @@
       {
         "machine_id": "32",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-10-01T13:02:16-04:00"
       },
       {
@@ -297,8 +297,8 @@
       {
         "machine_id": "35",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-10-01T12:35:36-04:00"
+        "status": "in_use",
+        "started_at": "2026-10-01T13:29:03-04:00"
       },
       {
         "machine_id": "36",
@@ -339,7 +339,7 @@
       {
         "machine_id": "42",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-10-01T13:13:02-04:00"
       },
       {
@@ -351,7 +351,7 @@
       {
         "machine_id": "44",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-10-01T13:11:48-04:00"
       },
       {
