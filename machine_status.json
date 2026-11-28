@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-28T10:58:55.877157-05:00",
+  "updated_at": "2026-11-28T12:02:53.711186-05:00",
   "washers": {
     "total": 33,
-    "available": 26,
-    "in_use": 7,
+    "available": 22,
+    "in_use": 11,
     "machines": [
       {
         "machine_id": "1",
@@ -20,8 +20,8 @@
       {
         "machine_id": "3",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T10:12:30-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T12:02:48-05:00"
       },
       {
         "machine_id": "4",
@@ -38,44 +38,44 @@
       {
         "machine_id": "6",
         "machine_type": "washer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:37:30-05:00"
       },
       {
         "machine_id": "7",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T10:13:36-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:58:13-05:00"
       },
       {
         "machine_id": "8",
         "machine_type": "washer",
         "status": "available",
-        "started_at": "2026-11-28T09:43:34-05:00"
+        "started_at": "2026-11-28T11:00:16-05:00"
       },
       {
         "machine_id": "9",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T09:44:11-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:56:49-05:00"
       },
       {
         "machine_id": "10",
         "machine_type": "washer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:55:14-05:00"
       },
       {
         "machine_id": "11",
         "machine_type": "washer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:55:45-05:00"
       },
       {
         "machine_id": "12",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T09:25:17-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:53:37-05:00"
       },
       {
         "machine_id": "13",
@@ -86,14 +86,14 @@
       {
         "machine_id": "14",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T09:31:34-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:51:36-05:00"
       },
       {
         "machine_id": "15",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": ""
+        "status": "in_use",
+        "started_at": "2026-11-28T11:51:55-05:00"
       },
       {
         "machine_id": "16",
@@ -111,13 +111,13 @@
         "machine_id": "18",
         "machine_type": "washer",
         "status": "available",
-        "started_at": ""
+        "started_at": "2026-11-28T11:01:14-05:00"
       },
       {
         "machine_id": "19",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T07:39:33-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:51:55-05:00"
       },
       {
         "machine_id": "20",
@@ -135,13 +135,13 @@
         "machine_id": "59",
         "machine_type": "washer",
         "status": "in_use",
-        "started_at": "2026-11-28T10:44:03-05:00"
+        "started_at": "2026-11-28T11:42:41-05:00"
       },
       {
         "machine_id": "60",
         "machine_type": "washer",
         "status": "in_use",
-        "started_at": "2026-11-28T10:49:07-05:00"
+        "started_at": "2026-11-28T11:44:18-05:00"
       },
       {
         "machine_id": "61",
@@ -159,13 +159,13 @@
         "machine_id": "63",
         "machine_type": "washer",
         "status": "in_use",
-        "started_at": "2026-11-28T10:50:20-05:00"
+        "started_at": "2026-11-28T12:02:48-05:00"
       },
       {
         "machine_id": "64",
         "machine_type": "washer",
-        "status": "available",
-        "started_at": "2026-11-28T08:34:53-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:55:27-05:00"
       },
       {
         "machine_id": "65",
@@ -176,7 +176,7 @@
       {
         "machine_id": "66",
         "machine_type": "washer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:32:29-05:00"
       },
       {
@@ -189,13 +189,13 @@
         "machine_id": "68",
         "machine_type": "washer",
         "status": "available",
-        "started_at": "2026-11-28T10:09:32-05:00"
+        "started_at": "2026-11-28T11:21:48-05:00"
       },
       {
         "machine_id": "69",
         "machine_type": "washer",
         "status": "available",
-        "started_at": "2026-11-28T10:09:32-05:00"
+        "started_at": "2026-11-28T11:25:17-05:00"
       },
       {
         "machine_id": "70",
@@ -207,38 +207,38 @@
   },
   "dryers": {
     "total": 37,
-    "available": 27,
-    "in_use": 10,
+    "available": 30,
+    "in_use": 7,
     "machines": [
       {
         "machine_id": "21",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:57:30-05:00"
       },
       {
         "machine_id": "22",
         "machine_type": "dryer",
         "status": "in_use",
-        "started_at": "2026-11-28T10:57:06-05:00"
+        "started_at": "2026-11-28T11:45:53-05:00"
       },
       {
         "machine_id": "23",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-11-28T09:35:33-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:53:25-05:00"
       },
       {
         "machine_id": "24",
         "machine_type": "dryer",
-        "status": "in_use",
-        "started_at": "2026-11-28T10:55:01-05:00"
+        "status": "available",
+        "started_at": "2026-11-28T11:24:05-05:00"
       },
       {
         "machine_id": "25",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": "2026-11-28T10:06:19-05:00"
+        "started_at": "2026-11-28T11:04:40-05:00"
       },
       {
         "machine_id": "26",
@@ -256,19 +256,19 @@
         "machine_id": "28",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": "2026-11-28T08:10:49-05:00"
+        "started_at": "2026-11-28T11:27:57-05:00"
       },
       {
         "machine_id": "29",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": "2026-11-28T10:29:13-05:00"
+        "started_at": "2026-11-28T11:28:18-05:00"
       },
       {
         "machine_id": "30",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-11-28T10:10:29-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:45:06-05:00"
       },
       {
         "machine_id": "31",
@@ -279,26 +279,26 @@
       {
         "machine_id": "32",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-11-28T10:21:45-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:41:53-05:00"
       },
       {
         "machine_id": "33",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:45:53-05:00"
       },
       {
         "machine_id": "34",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-11-28T09:54:50-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:41:29-05:00"
       },
       {
         "machine_id": "35",
         "machine_type": "dryer",
         "status": "in_use",
-        "started_at": "2026-11-28T10:53:09-05:00"
+        "started_at": "2026-11-28T11:41:41-05:00"
       },
       {
         "machine_id": "36",
@@ -328,19 +328,19 @@
         "machine_id": "40",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": ""
+        "started_at": "2026-11-28T11:10:51-05:00"
       },
       {
         "machine_id": "41",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": "2026-11-28T09:21:39-05:00"
+        "started_at": "2026-11-28T11:10:39-05:00"
       },
       {
         "machine_id": "42",
         "machine_type": "dryer",
-        "status": "in_use",
-        "started_at": "2026-11-28T10:37:41-05:00"
+        "status": "available",
+        "started_at": "2026-11-28T11:06:28-05:00"
       },
       {
         "machine_id": "43",
@@ -352,7 +352,7 @@
         "machine_id": "44",
         "machine_type": "dryer",
         "status": "available",
-        "started_at": "2026-11-28T10:28:49-05:00"
+        "started_at": "2026-11-28T11:06:28-05:00"
       },
       {
         "machine_id": "45",
@@ -375,8 +375,8 @@
       {
         "machine_id": "48",
         "machine_type": "dryer",
-        "status": "available",
-        "started_at": "2026-11-28T10:23:34-05:00"
+        "status": "in_use",
+        "started_at": "2026-11-28T11:44:30-05:00"
       },
       {
         "machine_id": "49",
@@ -387,7 +387,7 @@
       {
         "machine_id": "50",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:44:09-05:00"
       },
       {
@@ -399,7 +399,7 @@
       {
         "machine_id": "52",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:44:09-05:00"
       },
       {
@@ -423,13 +423,13 @@
       {
         "machine_id": "56",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:44:45-05:00"
       },
       {
         "machine_id": "57",
         "machine_type": "dryer",
-        "status": "in_use",
+        "status": "available",
         "started_at": "2026-11-28T10:46:47-05:00"
       }
     ]
